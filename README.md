@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadya4517/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Aadya4517/Leetcode-questions/tree/master/0486-predict-the-winner) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Aadya4517/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadya4517/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Aadya4517/Leetcode-questions/tree/master/0486-predict-the-winner) |
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aadya4517/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
