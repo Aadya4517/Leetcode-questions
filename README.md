@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aadya4517/Leetcode-questions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Aadya4517/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aadya4517/Leetcode-questions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aadya4517/Leetcode-questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Aadya4517/Leetcode-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
