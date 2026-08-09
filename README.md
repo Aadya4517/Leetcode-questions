@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Aadya4517/Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aadya4517/Leetcode-questions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3099-harshad-number](https://github.com/Aadya4517/Leetcode-questions/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
