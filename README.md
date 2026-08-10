@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Aadya4517/Leetcode-questions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aadya4517/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aadya4517/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aadya4517/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aadya4517/Leetcode-questions/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Aadya4517/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
