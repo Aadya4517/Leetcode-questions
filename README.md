@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aadya4517/Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1929-concatenation-of-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Aadya4517/Leetcode-questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadya4517/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Aadya4517/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadya4517/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Aadya4517/Leetcode-questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadya4517/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadya4517/Leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Aadya4517/Leetcode-questions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
+## Counting
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Aadya4517/Leetcode-questions/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
