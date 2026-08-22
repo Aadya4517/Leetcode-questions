@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aadya4517/Leetcode-questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Aadya4517/Leetcode-questions/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aadya4517/Leetcode-questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
