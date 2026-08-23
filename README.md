@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Aadya4517/Leetcode-questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadya4517/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [1927-sum-game](https://github.com/Aadya4517/Leetcode-questions/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadya4517/Leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Aadya4517/Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
+| [1927-sum-game](https://github.com/Aadya4517/Leetcode-questions/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aadya4517/Leetcode-questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Aadya4517/Leetcode-questions/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aadya4517/Leetcode-questions/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/Aadya4517/Leetcode-questions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aadya4517/Leetcode-questions/tree/master/2206-divide-array-into-equal-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Aadya4517/Leetcode-questions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
