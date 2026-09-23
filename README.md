@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Aadya4517/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadya4517/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Aadya4517/Leetcode-questions/tree/master/0486-predict-the-winner) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aadya4517/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Aadya4517/Leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aadya4517/Leetcode-questions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Aadya4517/Leetcode-questions/tree/master/0486-predict-the-winner) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aadya4517/Leetcode-questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
