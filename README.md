@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aadya4517/Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0015-3sum) |
 | [0658-find-k-closest-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadya4517/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
