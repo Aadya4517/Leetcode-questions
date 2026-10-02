@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aadya4517/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Aadya4517/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0392-is-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Aadya4517/Leetcode-questions/tree/master/0415-add-strings) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aadya4517/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Aadya4517/Leetcode-questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0063-unique-paths-ii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aadya4517/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadya4517/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting Sort
 |  |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aadya4517/Leetcode-questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
