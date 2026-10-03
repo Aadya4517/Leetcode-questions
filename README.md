@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aadya4517/Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aadya4517/Leetcode-questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1695-maximum-erasure-value](https://github.com/Aadya4517/Leetcode-questions/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/1748-sum-of-unique-elements) |
