@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aadya4517/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Aadya4517/Leetcode-questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aadya4517/Leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aadya4517/Leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Aadya4517/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aadya4517/Leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Aadya4517/Leetcode-questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 ## Depth-First Search
 |  |
