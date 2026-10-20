@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Aadya4517/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aadya4517/Leetcode-questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aadya4517/Leetcode-questions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Aadya4517/Leetcode-questions/tree/master/0486-predict-the-winner) |
+| [0633-sum-of-square-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadya4517/Leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
