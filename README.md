@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadya4517/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aadya4517/Leetcode-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aadya4517/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aadya4517/Leetcode-questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Aadya4517/Leetcode-questions/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Aadya4517/Leetcode-questions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aadya4517/Leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aadya4517/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1695-maximum-erasure-value](https://github.com/Aadya4517/Leetcode-questions/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aadya4517/Leetcode-questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aadya4517/Leetcode-questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aadya4517/Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-erasure-value](https://github.com/Aadya4517/Leetcode-questions/tree/master/1695-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aadya4517/Leetcode-questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aadya4517/Leetcode-questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadya4517/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Aadya4517/Leetcode-questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Aadya4517/Leetcode-questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Greedy
