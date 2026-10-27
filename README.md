@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0063-unique-paths-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aadya4517/Leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Aadya4517/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Aadya4517/Leetcode-questions/tree/master/0127-word-ladder) |
