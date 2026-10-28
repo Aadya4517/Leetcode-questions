@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadya4517/Leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aadya4517/Leetcode-questions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadya4517/Leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aadya4517/Leetcode-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadya4517/Leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aadya4517/Leetcode-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Aadya4517/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadya4517/Leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Design
 |  |
 | ------- |
