@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadya4517/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1029-two-city-scheduling](https://github.com/Aadya4517/Leetcode-questions/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aadya4517/Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Aadya4517/Leetcode-questions/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aadya4517/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadya4517/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1029-two-city-scheduling](https://github.com/Aadya4517/Leetcode-questions/tree/master/1029-two-city-scheduling) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aadya4517/Leetcode-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/Aadya4517/Leetcode-questions/tree/master/1927-sum-game) |
@@ -376,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Aadya4517/Leetcode-questions/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Aadya4517/Leetcode-questions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
