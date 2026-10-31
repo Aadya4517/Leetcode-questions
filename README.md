@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadya4517/Leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1695-maximum-erasure-value](https://github.com/Aadya4517/Leetcode-questions/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/1748-sum-of-unique-elements) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/1200-minimum-absolute-difference) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Aadya4517/Leetcode-questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadya4517/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aadya4517/Leetcode-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/Aadya4517/Leetcode-questions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/2333-minimum-sum-of-squared-difference) |
