@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Aadya4517/Leetcode-questions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Aadya4517/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
+| [0931-minimum-falling-path-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0896-monotonic-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0896-monotonic-array) |
+| [0931-minimum-falling-path-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadya4517/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aadya4517/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Aadya4517/Leetcode-questions/tree/master/0289-game-of-life) |
+| [0931-minimum-falling-path-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
 ## Stack
 |  |
 | ------- |
