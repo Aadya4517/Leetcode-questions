@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/3903-smallest-stable-index-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Aadya4517/Leetcode-questions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/3046-split-the-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aadya4517/Leetcode-questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Aadya4517/Leetcode-questions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Matrix
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Aadya4517/Leetcode-questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3046-split-the-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/3046-split-the-array) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/Aadya4517/Leetcode-questions/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Greedy
 |  |
 | ------- |
