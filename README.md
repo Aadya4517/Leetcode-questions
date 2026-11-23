@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Aadya4517/Leetcode-questions/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/Aadya4517/Leetcode-questions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Aadya4517/Leetcode-questions/tree/master/1200-minimum-absolute-difference) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aadya4517/Leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aadya4517/Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aadya4517/Leetcode-questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aadya4517/Leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aadya4517/Leetcode-questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Aadya4517/Leetcode-questions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1927-sum-game](https://github.com/Aadya4517/Leetcode-questions/tree/master/1927-sum-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Aadya4517/Leetcode-questions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/0729-my-calendar-i) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Segment Tree
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aadya4517/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadya4517/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aadya4517/Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/3903-smallest-stable-index-i) |
@@ -421,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0300-longest-increasing-subsequence) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
