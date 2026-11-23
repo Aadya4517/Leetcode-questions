@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aadya4517/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Aadya4517/Leetcode-questions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/Aadya4517/Leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Aadya4517/Leetcode-questions/tree/master/0729-my-calendar-i) |
 | [0896-monotonic-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0896-monotonic-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0931-minimum-falling-path-sum) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aadya4517/Leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Aadya4517/Leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aadya4517/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aadya4517/Leetcode-questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
