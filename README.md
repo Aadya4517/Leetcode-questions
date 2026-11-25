@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aadya4517/Leetcode-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0042-trapping-rain-water) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aadya4517/Leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Aadya4517/Leetcode-questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aadya4517/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
