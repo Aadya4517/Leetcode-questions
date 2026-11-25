@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Aadya4517/Leetcode-questions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Aadya4517/Leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Aadya4517/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aadya4517/Leetcode-questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aadya4517/Leetcode-questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aadya4517/Leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aadya4517/Leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aadya4517/Leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Aadya4517/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
